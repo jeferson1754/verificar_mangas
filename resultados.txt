@@ -1,0 +1,18 @@
+[6] Enlace del Manga: https://zonatmo.com/library/manga/48776/yankee-jk-kuzuhana-chan
+[6] Enlace de Verificación: https://localhost/Manga/ejemplo-barra.php?variable=827
+--------------------------------------------------
+[7] Enlace del Manga: https://zonatmo.com/library/manhwa/65549/return-of-the-disaster-class-hero
+[7] Enlace de Verificación: https://localhost/Manga/ejemplo-barra.php?variable=377
+--------------------------------------------------
+[8] Enlace del Manga: https://zonatmo.com/library/manga/53526/tensei-shitara-dai-nana-ouji-dattanode-kimamani-majutsu-o-kiwamemasu
+[8] Enlace de Verificación: https://localhost/Manga/ejemplo-barra.php?variable=105
+--------------------------------------------------
+[9] Enlace del Manga: https://zonatmo.com/library/manga/24108/parallel-paradise
+[9] Enlace de Verificación: https://localhost/Manga/ejemplo-barra.php?variable=17
+--------------------------------------------------
+[10] Enlace del Manga: https://zonatmo.com/library/manga/52476/isekai-kenja-no-tensei-musou-geemu-no-chishiki-de-isekai-saikyou
+[10] Enlace de Verificación: https://localhost/Manga/ejemplo-barra.php?variable=335
+--------------------------------------------------
+
+
+
