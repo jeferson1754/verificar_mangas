@@ -1,18 +1,30 @@
-[6] Enlace del Manga: https://zonatmo.com/library/manga/48776/yankee-jk-kuzuhana-chan
-[6] Enlace de Verificación: https://localhost/Manga/ejemplo-barra.php?variable=827
+[1] Enlace del Manga: https://zonatmo.com/library/manga/24108/parallel-paradise
+[1] Enlace de Verificación: http://localhost/Manga/ejemplo-barra.php?variable=17
 --------------------------------------------------
-[7] Enlace del Manga: https://zonatmo.com/library/manhwa/65549/return-of-the-disaster-class-hero
-[7] Enlace de Verificación: https://localhost/Manga/ejemplo-barra.php?variable=377
+[2] Enlace del Manga: 
+[2] Enlace de Verificación: http://localhost/Manga/ejemplo-barra.php?variable=33
 --------------------------------------------------
-[8] Enlace del Manga: https://zonatmo.com/library/manga/53526/tensei-shitara-dai-nana-ouji-dattanode-kimamani-majutsu-o-kiwamemasu
-[8] Enlace de Verificación: https://localhost/Manga/ejemplo-barra.php?variable=105
+[3] Enlace del Manga: https://zonatmo.com/library/manga/72104/bienvenido-a-casa-papi
+[3] Enlace de Verificación: http://localhost/Manga/ejemplo-barra.php?variable=232
 --------------------------------------------------
-[9] Enlace del Manga: https://zonatmo.com/library/manga/24108/parallel-paradise
-[9] Enlace de Verificación: https://localhost/Manga/ejemplo-barra.php?variable=17
+[4] Enlace del Manga: https://zonatmo.com/library/manga/48776/yankee-jk-kuzuhana-chan
+[4] Enlace de Verificación: http://localhost/Manga/ejemplo-barra.php?variable=827
 --------------------------------------------------
-[10] Enlace del Manga: https://zonatmo.com/library/manga/52476/isekai-kenja-no-tensei-musou-geemu-no-chishiki-de-isekai-saikyou
-[10] Enlace de Verificación: https://localhost/Manga/ejemplo-barra.php?variable=335
+[5] Enlace del Manga: https://zonatmo.com/library/manga/52476/isekai-kenja-no-tensei-musou-geemu-no-chishiki-de-isekai-saikyou
+[5] Enlace de Verificación: http://localhost/Manga/ejemplo-barra.php?variable=335
 --------------------------------------------------
-
-
-
+[6] Enlace del Manga: https://zonatmo.com/library/manga/67469/dungeon-busters-chuunen-otoko-desu-ga-niwa-ni-dungeon-ga-shutsugen-shita-node-sekai-wo-sukuimasu
+[6] Enlace de Verificación: http://localhost/Manga/ejemplo-barra.php?variable=206
+--------------------------------------------------
+[7] Enlace del Manga: https://zonatmo.com/library/manga/50603/volviendose-la-persona-mas-fuerte-con-una-habilidad-de-minar
+[7] Enlace de Verificación: http://localhost/Manga/ejemplo-barra.php?variable=139
+--------------------------------------------------
+[8] Enlace del Manga: https://zonatmo.com/library/manga/46344/rakudai-kenja-no-gakuin-musou-nidome-no-tensei-s-rank-cheat-majutsushi-boukenroku
+[8] Enlace de Verificación: http://localhost/Manga/ejemplo-barra.php?variable=241
+--------------------------------------------------
+[9] Enlace del Manga: https://zonatmo.com/library/manga/46629/mitakihara-kindergarten-mahougumi
+[9] Enlace de Verificación: http://localhost/Manga/ejemplo-barra.php?variable=792
+--------------------------------------------------
+[10] Enlace del Manga: https://zonatmo.com/library/manga/41738/hige-wo-soru-soshite-joshikosei-wo-hirou
+[10] Enlace de Verificación: http://localhost/Manga/ejemplo-barra.php?variable=142
+--------------------------------------------------

@@ -59,5 +59,5 @@ def obtener_enlaces_principales(url, archivo_salida="resultados.txt"):
 
 
 if __name__ == "__main__":
-    url = "https://inventarioncc.infinityfreeapp.com/Manga/?sin-fechas="
+    url = "http://localhost/Manga/?sin-fechas="
     obtener_enlaces_principales(url)
