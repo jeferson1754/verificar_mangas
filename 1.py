@@ -286,6 +286,7 @@ def abrir_enlaces_manga(archivo_entrada="resultados.txt"):
 
 
 if __name__ == "__main__":
-    url = "http://localhost/Manga/?sin-fechas="
+    #url = "https://inventarioncc.infinityfreeapp.com/Manga/?sin-fechas="
+    url = "https://inventarioncc.infinityfreeapp.com/Manga/Pendientes/?sin-fechas="
     obtener_enlaces_principales(url)
     abrir_enlaces_manga()

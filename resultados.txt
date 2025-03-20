@@ -1,30 +1,30 @@
-[1] Enlace del Manga: https://zonatmo.com/library/manga/24108/parallel-paradise
-[1] Enlace de Verificación: http://localhost/Manga/ejemplo-barra.php?variable=17
+[1] Enlace del Manga: https://zonatmo.com/library/manga/79643/kagurabachi
+[1] Enlace de Verificación: https://inventarioncc.infinityfreeapp.com/Manga/Pendientes/ejemplo-barra.php?variable=562
 --------------------------------------------------
 [2] Enlace del Manga: 
-[2] Enlace de Verificación: http://localhost/Manga/ejemplo-barra.php?variable=33
+[2] Enlace de Verificación: https://inventarioncc.infinityfreeapp.com/Manga/Pendientes/ejemplo-barra.php?variable=786
 --------------------------------------------------
-[3] Enlace del Manga: https://zonatmo.com/library/manga/72104/bienvenido-a-casa-papi
-[3] Enlace de Verificación: http://localhost/Manga/ejemplo-barra.php?variable=232
+[3] Enlace del Manga: https://zonatmo.com/library/manga/76332/dungeon-ni-hisomu-yandere-na-kanojo-ni-ore-wa-nando-mo-korosareru
+[3] Enlace de Verificación: https://inventarioncc.infinityfreeapp.com/Manga/Pendientes/ejemplo-barra.php?variable=317
 --------------------------------------------------
-[4] Enlace del Manga: https://zonatmo.com/library/manga/48776/yankee-jk-kuzuhana-chan
-[4] Enlace de Verificación: http://localhost/Manga/ejemplo-barra.php?variable=827
+[4] Enlace del Manga: https://zonatmo.com/library/manga/84896/eldiaquedecidihacerentenderamidescaradahermanagalamimaneraserializacion
+[4] Enlace de Verificación: https://inventarioncc.infinityfreeapp.com/Manga/Pendientes/ejemplo-barra.php?variable=785
 --------------------------------------------------
-[5] Enlace del Manga: https://zonatmo.com/library/manga/52476/isekai-kenja-no-tensei-musou-geemu-no-chishiki-de-isekai-saikyou
-[5] Enlace de Verificación: http://localhost/Manga/ejemplo-barra.php?variable=335
+[5] Enlace del Manga: https://zonatmo.com/library/manga/58362/tsuihou-sareta-onimotsu-tamer-sekai-yuiitsu-no-necromancer-ni-kakusei-suru
+[5] Enlace de Verificación: https://inventarioncc.infinityfreeapp.com/Manga/Pendientes/ejemplo-barra.php?variable=140
 --------------------------------------------------
-[6] Enlace del Manga: https://zonatmo.com/library/manga/67469/dungeon-busters-chuunen-otoko-desu-ga-niwa-ni-dungeon-ga-shutsugen-shita-node-sekai-wo-sukuimasu
-[6] Enlace de Verificación: http://localhost/Manga/ejemplo-barra.php?variable=206
+[6] Enlace del Manga: https://zonatmo.com/library/manhwa/58377/circles
+[6] Enlace de Verificación: https://inventarioncc.infinityfreeapp.com/Manga/Pendientes/ejemplo-barra.php?variable=237
 --------------------------------------------------
-[7] Enlace del Manga: https://zonatmo.com/library/manga/50603/volviendose-la-persona-mas-fuerte-con-una-habilidad-de-minar
-[7] Enlace de Verificación: http://localhost/Manga/ejemplo-barra.php?variable=139
+[7] Enlace del Manga: https://zonatmo.com/library/manga/69731/kanan-sama-wa-akumade-choroi
+[7] Enlace de Verificación: https://inventarioncc.infinityfreeapp.com/Manga/Pendientes/ejemplo-barra.php?variable=184
 --------------------------------------------------
-[8] Enlace del Manga: https://zonatmo.com/library/manga/46344/rakudai-kenja-no-gakuin-musou-nidome-no-tensei-s-rank-cheat-majutsushi-boukenroku
-[8] Enlace de Verificación: http://localhost/Manga/ejemplo-barra.php?variable=241
+[8] Enlace del Manga: https://zonatmo.com/library/manga/16022/Youjo-Senki
+[8] Enlace de Verificación: https://inventarioncc.infinityfreeapp.com/Manga/Pendientes/ejemplo-barra.php?variable=386
 --------------------------------------------------
-[9] Enlace del Manga: https://zonatmo.com/library/manga/46629/mitakihara-kindergarten-mahougumi
-[9] Enlace de Verificación: http://localhost/Manga/ejemplo-barra.php?variable=792
+[9] Enlace del Manga: https://zonatmo.com/library/manga/66472/otaku-ni-yasashii-gyaru-wa-inai
+[9] Enlace de Verificación: https://inventarioncc.infinityfreeapp.com/Manga/Pendientes/ejemplo-barra.php?variable=510
 --------------------------------------------------
-[10] Enlace del Manga: https://zonatmo.com/library/manga/41738/hige-wo-soru-soshite-joshikosei-wo-hirou
-[10] Enlace de Verificación: http://localhost/Manga/ejemplo-barra.php?variable=142
+[10] Enlace del Manga: https://zonatmo.com/library/manga/77396/las-chicas-que-me-traumatizaron-tora-joshi
+[10] Enlace de Verificación: https://inventarioncc.infinityfreeapp.com/Manga/Pendientes/ejemplo-barra.php?variable=26
 --------------------------------------------------
