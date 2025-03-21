@@ -183,7 +183,6 @@ def obtener_fechas_tmo(driver, url):
         print(f"🚨 Error durante la interacción: {e}")
 
 
-
 def obtener_fechas_verif(driver, url):
 
     driver.get(url)
@@ -213,7 +212,6 @@ def obtener_fechas_verif(driver, url):
 
     except Exception as e:
         print(f"Error al extraer las fechas:")
-
 
 
 def obtener_fechas(driver, url):
@@ -286,7 +284,6 @@ def abrir_enlaces_manga(archivo_entrada="resultados.txt"):
 
 
 if __name__ == "__main__":
-    #url = "https://inventarioncc.infinityfreeapp.com/Manga/?sin-fechas="
-    url = "https://inventarioncc.infinityfreeapp.com/Manga/Pendientes/?sin-fechas="
+    url = "http://localhost/Manga/?sin-fechas="
     obtener_enlaces_principales(url)
     abrir_enlaces_manga()

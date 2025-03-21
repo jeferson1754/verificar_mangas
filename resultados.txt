@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 [1] Enlace del Manga: https://zonatmo.com/library/manga/79643/kagurabachi
 [1] Enlace de Verificación: https://inventarioncc.infinityfreeapp.com/Manga/Pendientes/ejemplo-barra.php?variable=562
 --------------------------------------------------
@@ -27,4 +28,3 @@
 --------------------------------------------------
 [10] Enlace del Manga: https://zonatmo.com/library/manga/77396/las-chicas-que-me-traumatizaron-tora-joshi
 [10] Enlace de Verificación: https://inventarioncc.infinityfreeapp.com/Manga/Pendientes/ejemplo-barra.php?variable=26
---------------------------------------------------
