@@ -6,7 +6,6 @@ from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from datetime import datetime
-
 import time
 import re
 from plyer import notification
@@ -65,6 +64,7 @@ while True:
     print(f"Intento #{attempt_count} para acceder a {URL}...")  # Muestra el intento y el número
     if check_website():
         last_notification_time = 0  # Reinicia el contador si se puede acceder
+        break 
     else:
         current_time = time.time()
         if last_notification_time == 0 or (current_time - last_notification_time) >= NOTIFY_INTERVAL:
